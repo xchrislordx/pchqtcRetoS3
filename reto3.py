@@ -3,7 +3,7 @@
 
 
 numero = int(input('Ingrese un numero: '))
-b = []
+#b = []
 
 for i in range(1, 11):
     print(i*numero)

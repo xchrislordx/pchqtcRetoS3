@@ -13,4 +13,6 @@ El programa termina cuando el usuario introduce un cero.
 7) Pide una cadena por teclado, mete los caracteres en una lista sin repetir caracteres.
 8) Crea una lista con números, pide un numero por teclado e indica cuantas veces se repite.
 9) Crea una lista con números e indica el numero con mayor valor y el que menor tenga.
+
+-----
 10) Crea un diccionario donde la clave sea el nombre del usuario y el valor sea el teléfono (no es necesario validar). Tendrás que ir pidiendo contactos hasta el usuario diga que no quiere insertar mas. No se podrán meter nombres repetidos.
